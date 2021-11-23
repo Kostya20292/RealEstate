@@ -3,5 +3,5 @@
 ### Технологии:
 - HTML
 - CSS
-- Sass
+- SASS
 - JS
